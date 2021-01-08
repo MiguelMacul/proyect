@@ -1,0 +1,1552 @@
+[
+ {
+   "A": "1111",
+   "B": "Cultivo de semillas oleaginosas, leguminosas y cerealesT ",
+   "C": "Unidades económicas dedicadas principalmente a la siembra y cultivo de semillas oleaginosas, como soya, cártamo, girasol, canola, ajonjolí, linaza; de leguminosas para grano, como frijol, garbanzo, lenteja, y de cereales, como trigo, maíz, arroz, sorgo."
+ },
+ {
+   "A": "1112",
+   "B": "Cultivo de hortalizasT ",
+   "C": "Véase la descripción de la categoría 11121."
+ },
+ {
+   "A": "1113",
+   "B": "Cultivo de frutales y nuecesT ",
+   "C": "Unidades económicas dedicadas principalmente al cultivo de frutales, como cítricos, café, plátano, manzana, cacao, coco, durazno, zapote, olivo, y nueces, como nuez pecanera."
+ },
+ {
+   "A": "1114",
+   "B": "Cultivo en invernaderos y otras estructuras agrícolas protegidas, y floriculturaT ",
+   "C": "Unidades económicas dedicadas principalmente al cultivo de todo tipo de plantas, anuales y perennes, en invernaderos y otras estructuras agrícolas protegidas, y al cultivo de flores para corte tanto en invernaderos y otras estructuras agrícolas protegidas como a cielo abierto; al cultivo de árboles de Navidad y de especies maderables de ciclos productivos de 10 años o menos, y a la producción de materiales de propagación, como sarmientos, bulbos, patrones, estacas, esquejes, hijuelos y plantas jóvenes."
+ },
+ {
+   "A": "1119",
+   "B": "Otros cultivosT ",
+   "C": "Unidades económicas dedicadas principalmente al cultivo de tabaco, algodón, caña de azúcar, alfalfa, pastos forrajeros, agaves, cacahuate, especias, té, amaranto, césped o pasto en rollo o en panes y otros cultivos no clasificados en otra parte; a la combinación de actividades agrícolas con explotación de animales cuando sea imposible determinar cuál es la actividad principal; a la combinación de actividades agrícolas con aprovechamiento forestal cuando sea imposible determinar cuál es la actividad principal, y a la combinación de actividades agrícolas, explotación de animales y aprovechamiento forestal cuando sea imposible determinar cuál es la actividad principal."
+ },
+ {
+   "A": "1121",
+   "B": "Explotación de bovinosT ",
+   "C": "Unidades económicas dedicadas principalmente a la explotación de ganado bovino para la producción de carne; de leche; producción conjunta de leche y carne, y para otros propósitos distintos a los anteriores."
+ },
+ {
+   "A": "1122",
+   "B": "Explotación de porcinosT ",
+   "C": "Véase la descripción de la categoría 11221."
+ },
+ {
+   "A": "1123",
+   "B": "Explotación avícolaT ",
+   "C": "Unidades económicas dedicadas principalmente a la explotación de aves para la producción de carne o de huevo y a la producción de aves en incubadora."
+ },
+ {
+   "A": "1124",
+   "B": "Explotación de ovinos y caprinosT ",
+   "C": "Unidades económicas dedicadas principalmente a la explotación de ovinos y caprinos."
+ },
+ {
+   "A": "1125",
+   "B": "AcuiculturaT ",
+   "C": "Véase la descripción de la categoría 11251."
+ },
+ {
+   "A": "1129",
+   "B": "Explotación de otros animalesT ",
+   "C": "Unidades económicas dedicadas principalmente a la explotación de abejas, équidos, conejos, chinchillas, zorros, perros, gatos, gallos de pelea, aves de ornato, gusanos de seda, llamas, venados y otros animales no clasificados en otra parte, y unidades económicas dedicadas a la explotación de animales combinada con aprovechamiento forestal cuando sea imposible determinar cuál es la actividad principal."
+ },
+ {
+   "A": "1131",
+   "B": "SilviculturaT ",
+   "C": "Véase la descripción de la categoría 113110."
+ },
+ {
+   "A": "1132",
+   "B": "Viveros forestales y recolección de productos forestalesT ",
+   "C": "Véase la descripción de la categoría 11321."
+ },
+ {
+   "A": "1133",
+   "B": "Tala de árbolesT ",
+   "C": "Véase la descripción de la categoría 113310."
+ },
+ {
+   "A": "1141",
+   "B": "PescaT ",
+   "C": "Véase la descripción de la categoría 11411."
+ },
+ {
+   "A": "1142",
+   "B": "Caza y capturaT ",
+   "C": "Véase la descripción de la categoría 114210."
+ },
+ {
+   "A": "1151",
+   "B": "Servicios relacionados con la agriculturaT ",
+   "C": "Véase la descripción de la categoría 11511."
+ },
+ {
+   "A": "1152",
+   "B": "Servicios relacionados con la cría y explotación de animalesT ",
+   "C": "Véase la descripción de la categoría 115210."
+ },
+ {
+   "A": "1153",
+   "B": "Servicios relacionados con el aprovechamiento forestalT ",
+   "C": "Véase la descripción de la categoría 115310."
+ },
+ {
+   "A": "2111",
+   "B": "Extracción de petróleo y gasT ",
+   "C": "Véase la descripción de la categoría 21111."
+ },
+ {
+   "A": "2121",
+   "B": "Minería de carbón mineralT ",
+   "C": "Véase la descripción de la categoría 212110."
+ },
+ {
+   "A": "2122",
+   "B": "Minería de minerales metálicosT ",
+   "C": "Unidades económicas dedicadas principalmente a la explotación de minerales metálicos, como hierro, oro, plata, cobre, plomo, zinc y otros minerales metálicos, y a actividades de beneficio, como la trituración, el cribado, la molienda, la concentración magnética, la flotación y la lixiviación, encaminadas a la obtención de concentrados y precipitados."
+ },
+ {
+   "A": "2123",
+   "B": "Minería de minerales no metálicosT ",
+   "C": "Unidades económicas dedicadas principalmente a la explotación de minerales no metálicos, como piedras calizas, piedras dimensionadas (mármol, piedra de cantera); arena, grava, arcillas refractarias y no refractarias, y sal, y a actividades de beneficio, como el cribado, la trituración y otros tratamientos a tierras y rocas."
+ },
+ {
+   "A": "2131",
+   "B": "Servicios relacionados con la mineríaT ",
+   "C": "Véase la descripción de la categoría 21311."
+ },
+ {
+   "A": "2211",
+   "B": "Generación, transmisión, distribución y comercialización de energía eléctricaT ",
+   "C": "Unidades económicas dedicadas principalmente a la generación, transmisión, distribución y comercialización de energía eléctrica."
+ },
+ {
+   "A": "2212",
+   "B": "Suministro de gas natural por ductos al consumidor finalT ",
+   "C": "Véase la descripción de la categoría 221210."
+ },
+ {
+   "A": "2213",
+   "B": "Captación, tratamiento y suministro de aguaT ",
+   "C": "Véase la descripción de la categoría 22131."
+ },
+ {
+   "A": "2361",
+   "B": "Edificación residencialT ",
+   "C": "Véase la descripción de la categoría 23611."
+ },
+ {
+   "A": "2362",
+   "B": "Edificación no residencialT ",
+   "C": "Unidades económicas dedicadas principalmente a la construcción de edificios no residenciales para fines industriales, comerciales y de servicios, y a la supervisión de la construcción de los inmuebles no residenciales. Puede tratarse de trabajos nuevos, ampliaciones, remodelaciones, mantenimiento o reparaciones de edificios no residenciales."
+ },
+ {
+   "A": "2371",
+   "B": "Construcción de obras para el suministro de agua, petróleo, gas, energía eléctrica y telecomunicacionesT ",
+   "C": "Unidades económicas dedicadas principalmente a la construcción de obras para el suministro de agua, petróleo y gas; a la construcción de obras para la generación y conducción de energía eléctrica y de obras para telecomunicaciones, y a la supervisión de la construcción de las obras para el suministro de agua, petróleo, gas, energía eléctrica y obras para telecomunicaciones. Puede tratarse de trabajos nuevos, ampliaciones, remodelaciones, mantenimiento o reparaciones de obras para el suministro de agua, petróleo, gas, energía eléctrica y telecomunicaciones."
+ },
+ {
+   "A": "2372",
+   "B": "División de terrenos y construcción de obras de urbanizaciónT ",
+   "C": "Véase la descripción de la categoría 23721."
+ },
+ {
+   "A": "2373",
+   "B": "Construcción de vías de comunicaciónT ",
+   "C": "Véase la descripción de la categoría 23731."
+ },
+ {
+   "A": "2379",
+   "B": "Otras construcciones de ingeniería civilT ",
+   "C": "Véase descripción de la categoría 23799."
+ },
+ {
+   "A": "2381",
+   "B": "Cimentaciones, montaje de estructuras prefabricadas y trabajos en exterioresT ",
+   "C": "Unidades económicas dedicadas principalmente a realizar trabajos de cimentaciones, montaje de estructuras prefabricadas de concreto o acero, así como a realizar otros trabajos en exteriores, y de albañilería. Puede tratarse de trabajos nuevos, ampliaciones, remodelaciones, mantenimiento o reparaciones de las cimentaciones, los montajes de estructuras prefabricadas y los trabajos en exteriores."
+ },
+ {
+   "A": "2382",
+   "B": "Instalaciones y equipamiento en construccionesT ",
+   "C": "Unidades económicas dedicadas principalmente a realizar instalaciones de redes eléctricas, de alumbrado, de sistemas electrónicos, de gas, hidrosanitarias, de sistemas centrales de aire acondicionado y calefacción, y otras instalaciones en construcciones. Puede tratarse de trabajos nuevos, ampliaciones, remodelaciones, mantenimiento o reparaciones de instalaciones en construcciones."
+ },
+ {
+   "A": "2383",
+   "B": "Trabajos de acabados en edificacionesT ",
+   "C": "Unidades económicas dedicadas principalmente a la colocación de muros falsos y material para aislamiento; a los trabajos de enyesado, pintura y otros cubrimientos de paredes; a la colocación de pisos y azulejos; a la realización de trabajos de carpintería en el lugar de la construcción, y a otros trabajos de acabados en edificaciones. Puede tratarse de trabajos nuevos, ampliaciones, remodelaciones, mantenimiento o reparaciones de trabajos de acabados en edificaciones."
+ },
+ {
+   "A": "2389",
+   "B": "Otros trabajos especializados para la construcciónT ",
+   "C": "Unidades económicas dedicadas principalmente a la preparación de terrenos para la construcción, y a otros trabajos especializados para la construcción no clasificados en otra parte. Puede tratarse de trabajos nuevos, ampliaciones, remodelaciones, mantenimiento o reparaciones de otros trabajos especializados para la construcción no clasificados en otra parte."
+ },
+ {
+   "A": "3111",
+   "B": "Elaboración de alimentos para animalesT ",
+   "C": "Véase la descripción de la categoría 311110."
+ },
+ {
+   "A": "3112",
+   "B": "Molienda de granos y de semillas y obtención de aceites y grasasT ",
+   "C": "Unidades económicas dedicadas principalmente al beneficio del arroz, a la elaboración de productos de molinería, malta, almidones, aceites, grasas vegetales comestibles y cereales para el desayuno."
+ },
+ {
+   "A": "3113",
+   "B": "Elaboración de azúcares, chocolates, dulces y similaresT ",
+   "C": "Unidades económicas dedicadas principalmente a la elaboración de azúcares, chocolate, productos de chocolate, dulces, chicles y productos de confitería."
+ },
+ {
+   "A": "3114",
+   "B": "Conservación de frutas, verduras, guisos y otros alimentos preparadosT ",
+   "C": "Unidades económicas dedicadas principalmente a la conservación de frutas, verduras, guisos y otros alimentos preparados mediante distintos procesos, como congelación, deshidratación, enlatado, encurtido y conservación en salmuera."
+ },
+ {
+   "A": "3115",
+   "B": "Elaboración de productos lácteosT ",
+   "C": "Unidades económicas dedicadas principalmente a la elaboración de leche líquida, en polvo, condensada y evaporada; de derivados y fermentos lácteos, como queso, crema, mantequilla, yogur, y de helados, paletas y nieves de todo tipo a base de leche, yogur o agua."
+ },
+ {
+   "A": "3116",
+   "B": "Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestiblesT ",
+   "C": "Véase la descripción de la categoría 31161."
+ },
+ {
+   "A": "3117",
+   "B": "Preparación y envasado de pescados y mariscosT ",
+   "C": "Véase la descripción de la categoría 311710."
+ },
+ {
+   "A": "3118",
+   "B": "Elaboración de productos de panadería y tortillasT ",
+   "C": "Unidades económicas dedicadas principalmente a la elaboración de pan y otros productos de panadería, galletas, pastas para sopa, tortillas de maíz y molienda de nixtamal."
+ },
+ {
+   "A": "3119",
+   "B": "Otras industrias alimentariasT ",
+   "C": "Unidades económicas dedicadas principalmente a la elaboración de botanas, café, té, concentrados, polvos, jarabes y esencias de sabor para bebidas, condimentos y aderezos, y de otros productos alimenticios no clasificados en otra parte."
+ },
+ {
+   "A": "3121",
+   "B": "Industria de las bebidasT ",
+   "C": "Unidades económicas dedicadas principalmente a la elaboración de bebidas carbonatadas; a la purificación y embotellado de agua natural (por filtración, pasteurización, ósmosis inversa); a la elaboración de hielo; de cerveza y bebidas alcohólicas fermentadas y destiladas, y a la obtención de alcohol etílico potable."
+ },
+ {
+   "A": "3122",
+   "B": "Industria del tabacoT ",
+   "C": "Unidades económicas dedicadas principalmente al beneficio del tabaco y a la elaboración de productos de tabaco."
+ },
+ {
+   "A": "3131",
+   "B": "Preparación e hilado de fibras textiles, y fabricación de hilosT ",
+   "C": "Véase la descripción de la categoría 31311."
+ },
+ {
+   "A": "3132",
+   "B": "Fabricación de telasT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de telas a partir de hilo."
+ },
+ {
+   "A": "3133",
+   "B": "Acabado de productos textiles y fabricación de telas recubiertasT ",
+   "C": "Unidades económicas dedicadas principalmente al acabado de fibras, hilados, hilos, telas y prendas de vestir (textiles que son propiedad de terceros), y a la fabricación de telas recubiertas con sustancias químicas a partir de tela comprada."
+ },
+ {
+   "A": "3141",
+   "B": "Confección de alfombras, blancos y similaresT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de alfombras, tapetes y esteras a partir de hilo comprado, y a la confección (corte y cosido) de cortinas, blancos y similares, a partir de tela comprada."
+ },
+ {
+   "A": "3149",
+   "B": "Fabricación de otros productos textiles, excepto prendas de vestirT ",
+   "C": "Unidades económicas dedicadas principalmente a la confección (corte y cosido) de costales, de productos de textiles recubiertos y de materiales sucedáneos, y a la fabricación de otros productos textiles no clasificados en otra parte."
+ },
+ {
+   "A": "3151",
+   "B": "Fabricación de prendas de vestir de tejido de puntoT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de calcetines, medias y ropa interior o exterior de tejido de punto."
+ },
+ {
+   "A": "3152",
+   "B": "Confección de prendas de vestirT ",
+   "C": "Unidades económicas dedicadas principalmente a la confección (corte y cosido) de prendas de vestir a partir de cuero, piel y materiales sucedáneos, y de materiales textiles comprados."
+ },
+ {
+   "A": "3159",
+   "B": "Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parteT ",
+   "C": "Véase la descripción de la categoría 31599."
+ },
+ {
+   "A": "3161",
+   "B": "Curtido y acabado de cuero y pielT ",
+   "C": "Véase la descripción de la categoría 316110."
+ },
+ {
+   "A": "3162",
+   "B": "Fabricación de calzadoT ",
+   "C": "Véase la descripción de la categoría 31621."
+ },
+ {
+   "A": "3169",
+   "B": "Fabricación de otros productos de cuero, piel y materiales sucedáneosT ",
+   "C": "Véase la descripción de la categoría 31699."
+ },
+ {
+   "A": "3211",
+   "B": "Aserrado y conservación de la maderaT ",
+   "C": "Véase la descripción de la categoría 32111."
+ },
+ {
+   "A": "3212",
+   "B": "Fabricación de laminados y aglutinados de maderaT ",
+   "C": "Véase la descripción de la categoría 321210."
+ },
+ {
+   "A": "3219",
+   "B": "Fabricación de otros productos de maderaT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación, a partir de madera aserrada, de productos de madera para la construcción; de productos para embalaje y envases de madera, y de otros productos de madera y de materiales trenzables, excepto palma."
+ },
+ {
+   "A": "3221",
+   "B": "Fabricación de pulpa, papel y cartónT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de pulpa (de madera y de materiales reciclados), papel y cartón."
+ },
+ {
+   "A": "3222",
+   "B": "Fabricación de productos de cartón y papelT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de productos de cartón y papel a partir de cartón y papel comprado."
+ },
+ {
+   "A": "3231",
+   "B": "Impresión e industrias conexasT ",
+   "C": "Unidades económicas dedicadas principalmente a la impresión hecha sobre pedido de libros, periódicos, revistas y otros impresos; a la impresión de formas continuas, y a realizar actividades para la industria de la impresión, como la encuadernación y la elaboración de placas, clichés, grabados y otros productos similares."
+ },
+ {
+   "A": "3241",
+   "B": "Fabricación de productos derivados del petróleo y del carbónT ",
+   "C": "Unidades económicas dedicadas principalmente a la refinación de petróleo crudo, a la fabricación de productos de asfalto, aceites y grasas lubricantes, y de otros productos derivados del petróleo refinado y del carbón mineral."
+ },
+ {
+   "A": "3251",
+   "B": "Fabricación de productos químicos básicosT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de productos químicos básicos, como productos petroquímicos, gases industriales, pigmentos y colorantes sintéticos no comestibles, y otros productos químicos básicos inorgánicos y orgánicos."
+ },
+ {
+   "A": "3252",
+   "B": "Fabricación de resinas y hules sintéticos, y fibras químicasT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de resinas, hules sintéticos y fibras químicas."
+ },
+ {
+   "A": "3253",
+   "B": "Fabricación de fertilizantes, pesticidas y otros agroquímicosT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de fertilizantes, pesticidas y otros agroquímicos."
+ },
+ {
+   "A": "3254",
+   "B": "Fabricación de productos farmacéuticosT ",
+   "C": "Véase la descripción de la categoría 32541."
+ },
+ {
+   "A": "3255",
+   "B": "Fabricación de pinturas, recubrimientos y adhesivosT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de pinturas, recubrimientos y adhesivos."
+ },
+ {
+   "A": "3256",
+   "B": "Fabricación de jabones, limpiadores y preparaciones de tocadorT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de jabones, limpiadores, dentífricos, cosméticos, perfumes y otras preparaciones de tocador."
+ },
+ {
+   "A": "3259",
+   "B": "Fabricación de otros productos químicosT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de tintas para impresión, explosivos, y otros productos químicos."
+ },
+ {
+   "A": "3261",
+   "B": "Fabricación de productos de plásticoT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de bolsas y películas de plástico flexible para embalaje; tubería, conexiones y tubos para embalaje; laminados de plástico rígido; espumas y productos de poliestireno; espumas y productos de uretano; botellas, y otros productos de plástico."
+ },
+ {
+   "A": "3262",
+   "B": "Fabricación de productos de huleT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación y revitalización de llantas; a la fabricación de bandas y mangueras de hule y de plástico, y de otros productos de hule."
+ },
+ {
+   "A": "3271",
+   "B": "Fabricación de productos a base de arcillas y minerales refractariosT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de artículos de alfarería, porcelana, loza, muebles y accesorios de baño, y de productos para la construcción a base de arcillas refractarias o no refractarias y de productos refractarios arcillosos y no arcillosos."
+ },
+ {
+   "A": "3272",
+   "B": "Fabricación de vidrio y productos de vidrioT ",
+   "C": "Véase la descripción de la categoría 32721."
+ },
+ {
+   "A": "3273",
+   "B": "Fabricación de cemento y productos de concretoT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de cemento, concreto, tubos, bloques y otros productos de cemento y concreto."
+ },
+ {
+   "A": "3274",
+   "B": "Fabricación de cal, yeso y productos de yesoT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de cal, yeso y productos de yeso."
+ },
+ {
+   "A": "3279",
+   "B": "Fabricación de otros productos a base de minerales no metálicosT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de productos de fricción o abrasivos, y de otros productos a base de minerales no metálicos."
+ },
+ {
+   "A": "3311",
+   "B": "Industria básica del hierro y del aceroT ",
+   "C": "Véase la descripción de la categoría 33111."
+ },
+ {
+   "A": "3312",
+   "B": "Fabricación de productos de hierro y aceroT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación, a partir de hierro y acero comprados, de tubos, postes, láminas recubiertas y sin recubrir, alambrón, varillas y otros productos de laminación secundaria de hierro y acero."
+ },
+ {
+   "A": "3313",
+   "B": "Industria básica del aluminioT ",
+   "C": "Véase la descripción de la categoría 331310."
+ },
+ {
+   "A": "3314",
+   "B": "Industrias de metales no ferrosos, excepto aluminioT ",
+   "C": "Unidades económicas dedicadas principalmente a la fundición, afinación y refinación de cobre, metales preciosos y otros metales no ferrosos, y a la producción de sus aleaciones, y a la laminación secundaria de cobre y otros materiales no ferrosos."
+ },
+ {
+   "A": "3315",
+   "B": "Moldeo por fundición de piezas metálicasT ",
+   "C": "Unidades económicas dedicadas principalmente al moldeo por fundición de todo tipo de piezas a partir de hierro, acero y metales no ferrosos comprados."
+ },
+ {
+   "A": "3321",
+   "B": "Fabricación de productos metálicos forjados y troqueladosT ",
+   "C": "Véase la descripción de la categoría 332110."
+ },
+ {
+   "A": "3322",
+   "B": "Fabricación de herramientas de mano sin motor y utensilios de cocina metálicosT ",
+   "C": "Véase la descripción de la categoría 33221."
+ },
+ {
+   "A": "3323",
+   "B": "Fabricación de estructuras metálicas y productos de herreríaT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de partes y estructuras metálicas de hierro y acero para la construcción, y de productos de herrería."
+ },
+ {
+   "A": "3324",
+   "B": "Fabricación de calderas, tanques y envases metálicosT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de calderas industriales, tanques, depósitos y envases metálicos de calibre grueso y ligero."
+ },
+ {
+   "A": "3325",
+   "B": "Fabricación de herrajes y cerradurasT ",
+   "C": "Véase la descripción de la categoría 332510."
+ },
+ {
+   "A": "3326",
+   "B": "Fabricación de alambre, productos de alambre y resortesT ",
+   "C": "Véase la descripción de la categoría 332610."
+ },
+ {
+   "A": "3327",
+   "B": "Maquinado de piezas y fabricación de tornillosT ",
+   "C": "Unidades económicas dedicadas principalmente al maquinado hecho sobre pedido de piezas metálicas nuevas y usadas para maquinaria y equipo en general, y a la fabricación de tornillos, tuercas, remaches y similares."
+ },
+ {
+   "A": "3328",
+   "B": "Recubrimientos y terminados metálicosT ",
+   "C": "Véase la descripción de la categoría 332810."
+ },
+ {
+   "A": "3329",
+   "B": "Fabricación de otros productos metálicosT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de válvulas metálicas, baleros, rodamientos, y otros productos metálicos."
+ },
+ {
+   "A": "3331",
+   "B": "Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractivaT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de maquinaria y equipo para las actividades agropecuarias, la construcción y la industria extractiva."
+ },
+ {
+   "A": "3332",
+   "B": "Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánicaT ",
+   "C": "Véase la descripción de la categoría 33324."
+ },
+ {
+   "A": "3333",
+   "B": "Fabricación de maquinaria y equipo para el comercio y los serviciosT ",
+   "C": "Véase la descripción de la categoría 33331."
+ },
+ {
+   "A": "3334",
+   "B": "Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercialT ",
+   "C": "Véase la descripción de la categoría 33341."
+ },
+ {
+   "A": "3335",
+   "B": "Fabricación de maquinaria y equipo para la industria metalmecánicaT ",
+   "C": "Véase la descripción de la categoría 333510."
+ },
+ {
+   "A": "3336",
+   "B": "Fabricación de motores de combustión interna, turbinas y transmisionesT ",
+   "C": "Véase la descripción de la categoría 333610."
+ },
+ {
+   "A": "3339",
+   "B": "Fabricación de otra maquinaria y equipo para la industria en generalT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de maquinaria y equipo para la industria en general, como bombas y sistemas de bombeo; maquinaria y equipo para levantar y trasladar; equipo para soldar y soldaduras; maquinaria y equipo para envasar y empacar; aparatos e instrumentos para pesar, y otra maquinaria y equipo para la industria en general."
+ },
+ {
+   "A": "3341",
+   "B": "Fabricación de computadoras y equipo periféricoT ",
+   "C": "Véase la descripción de la categoría 334110."
+ },
+ {
+   "A": "3342",
+   "B": "Fabricación de equipo de comunicaciónT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de equipo de comunicación, como equipo telefónico; equipo de transmisión y recepción de señales de radio, televisión abierta, por cable y satelital; de equipo de comunicación inalámbrico, y otros equipos de comunicación."
+ },
+ {
+   "A": "3343",
+   "B": "Fabricación de equipo de audio y de videoT ",
+   "C": "Véase la descripción de la categoría 334310."
+ },
+ {
+   "A": "3344",
+   "B": "Fabricación de componentes electrónicosT ",
+   "C": "Véase la descripción de la categoría 334410."
+ },
+ {
+   "A": "3345",
+   "B": "Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónicoT ",
+   "C": "Véase la descripción de la categoría 33451."
+ },
+ {
+   "A": "3346",
+   "B": "Fabricación y reproducción de medios magnéticos y ópticosT ",
+   "C": "Véase la descripción de la categoría 334610."
+ },
+ {
+   "A": "3351",
+   "B": "Fabricación de accesorios de iluminaciónT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de focos y lámparas ornamentales."
+ },
+ {
+   "A": "3352",
+   "B": "Fabricación de aparatos eléctricos de uso domésticoT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de enseres electrodomésticos menores y aparatos de línea blanca."
+ },
+ {
+   "A": "3353",
+   "B": "Fabricación de equipo de generación y distribución de energía eléctricaT ",
+   "C": "Véase la descripción de la categoría 33531."
+ },
+ {
+   "A": "3359",
+   "B": "Fabricación de otros equipos y accesorios eléctricosT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de baterías, acumuladores y pilas; cables de conducción eléctrica; enchufes, contactos, fusibles y otros accesorios para instalaciones eléctricas, y de otros productos eléctricos."
+ },
+ {
+   "A": "3361",
+   "B": "Fabricación de automóviles y camionesT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de automóviles, camionetas, autobuses, camiones y tractocamiones."
+ },
+ {
+   "A": "3362",
+   "B": "Fabricación de carrocerías y remolquesT ",
+   "C": "Véase la descripción de la categoría 336210."
+ },
+ {
+   "A": "3363",
+   "B": "Fabricación de partes para vehículos automotoresT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de partes para vehículos automotores (automóviles, camionetas, camiones, trenes, barcos y aeronaves), como motores de gasolina, híbridos y de combustibles alternativos para vehículos automotrices (automóviles, camionetas y camiones); equipo eléctrico y electrónico para vehículos automotores; sistemas de dirección, suspensión y frenos para vehículos automotrices; sistemas de transmisión, asientos y accesorios interiores para vehículos automotores; piezas metálicas troqueladas y otras partes para vehículos automotrices."
+ },
+ {
+   "A": "3364",
+   "B": "Fabricación de equipo aeroespacialT ",
+   "C": "Véase la descripción de la categoría 336410."
+ },
+ {
+   "A": "3365",
+   "B": "Fabricación de equipo ferroviarioT ",
+   "C": "Véase la descripción de la categoría 336510."
+ },
+ {
+   "A": "3366",
+   "B": "Fabricación de embarcacionesT ",
+   "C": "Véase la descripción de la categoría 336610."
+ },
+ {
+   "A": "3369",
+   "B": "Fabricación de otro equipo de transporteT ",
+   "C": "Véase la descripción de la categoría 33699."
+ },
+ {
+   "A": "3371",
+   "B": "Fabricación de muebles, excepto de oficina y estanteríaT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de muebles, excepto de oficina y estantería."
+ },
+ {
+   "A": "3372",
+   "B": "Fabricación de muebles de oficina y estanteríaT ",
+   "C": "Véase la descripción de la categoría 337210."
+ },
+ {
+   "A": "3379",
+   "B": "Fabricación de colchones, persianas y cortinerosT ",
+   "C": "Unidades económicas dedicadas principalmente a la fabricación de colchones, box spring, persianas y cortineros."
+ },
+ {
+   "A": "3391",
+   "B": "Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicosT ",
+   "C": "Véase la descripción de la categoría 33911."
+ },
+ {
+   "A": "3399",
+   "B": "Otras industrias manufacturerasT ",
+   "C": "Unidades económicas dedicadas principalmente a la metalistería y joyería; a la fabricación de artículos deportivos; juguetes; artículos y accesorios para escritura, pintura, dibujo y actividades de oficina; de anuncios y señalamientos, y otras manufacturas no clasificadas en otra parte."
+ },
+ {
+   "A": "4311",
+   "B": "Comercio al por mayor de abarrotes y alimentos ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por mayor de abarrotes (amplia variedad de productos para consumo humano) y al comercio al por mayor especializado de alimentos para consumo humano, como carnes, frutas y verduras frescas, huevo, semillas y granos alimenticios, especias y chiles secos, leche y otros productos lácteos, embutidos, dulces y materias primas para repostería, pan y pasteles, botanas y frituras, conservas alimenticias, y miel."
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": ""
+ },
+ {
+   "A": "4312",
+   "B": "Comercio al por mayor de bebidas, hielo y tabaco ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por mayor especializado de bebidas envasadas no alcohólicas y alcohólicas, hielo, cigarros, puros y tabaco."
+ },
+ {
+   "A": "4321",
+   "B": "Comercio al por mayor de productos textiles y calzado ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por mayor especializado de productos textiles (fibras, hilos, telas, blancos, cueros y pieles, pasamanería, productos tejidos de fibras duras naturales), ropa, bisutería, accesorios de vestir y calzado."
+ },
+ {
+   "A": "4331",
+   "B": "Comercio al por mayor de productos farmacéuticos ",
+   "C": "Véase la descripción de la categoría 433110."
+ },
+ {
+   "A": "4332",
+   "B": "Comercio al por mayor de artículos de perfumería, cosméticos y joyería ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por mayor especializado de artículos de perfumería, cosméticos y otros artículos de belleza; joyería fina, relojes y piedras preciosas."
+ },
+ {
+   "A": "4333",
+   "B": "Comercio al por mayor de discos, juguetes y artículos deportivos ",
+   "C": "Véase la descripción de la categoría 43331."
+ },
+ {
+   "A": "4334",
+   "B": "Comercio al por mayor de artículos de papelería, libros, revistas y periódicos ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por mayor especializado de artículos de papelería para uso escolar y de oficina, libros, revistas y periódicos."
+ },
+ {
+   "A": "4335",
+   "B": "Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca ",
+   "C": "Véase la descripción de la categoría 433510."
+ },
+ {
+   "A": "4341",
+   "B": "Comercio al por mayor de materias primas agropecuarias y forestales ",
+   "C": "Véase la descripción de la categoría 43411."
+ },
+ {
+   "A": "4342",
+   "B": "Comercio al por mayor de materias primas para la industria ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por mayor especializado de materias primas para la industria de la construcción y otras industrias."
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": ""
+ },
+ {
+   "A": "4343",
+   "B": "Comercio al por mayor de materiales de desecho ",
+   "C": "Véase la descripción de la categoría 43431."
+ },
+ {
+   "A": "4351",
+   "B": "Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca ",
+   "C": "Véase la descripción de la categoría 435110."
+ },
+ {
+   "A": "4352",
+   "B": "Comercio al por mayor de maquinaria y equipo para la industria ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por mayor especializado de maquinaria y equipo, partes y refacciones para la construcción y la minería, y para la industria manufacturera."
+ },
+ {
+   "A": "4353",
+   "B": "Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales ",
+   "C": "Véase la descripción de la categoría 43531."
+ },
+ {
+   "A": "4354",
+   "B": "Comercio al por mayor de mobiliario y equipo de cómputo y de oficina, y de otra maquinaria y equipo de uso general ",
+   "C": "Véase la descripción de la categoría 43541."
+ },
+ {
+   "A": "4361",
+   "B": "Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones ",
+   "C": "Véase la descripción de la categoría 43611."
+ },
+ {
+   "A": "4371",
+   "B": "Intermediación de comercio al por mayor, excepto a través de internet y de otros medios electrónicos ",
+   "C": "Véase la descripción de la categoría 43711."
+ },
+ {
+   "A": "4372",
+   "B": "Intermediación de comercio al por mayor exclusivamente a través de internet y otros medios electrónicos ",
+   "C": "Véase la descripción de la categoría 437210."
+ },
+ {
+   "A": "4611",
+   "B": "Comercio al por menor de abarrotes y alimentos ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por menor de abarrotes (amplia variedad de productos para consumo humano) y al comercio al por menor especializado de alimentos para consumo humano, como carnes, frutas y verduras frescas, semillas y granos alimenticios, especias y chiles secos, leche, otros productos lácteos y embutidos, dulces y materias primas para repostería, paletas de hielo, helados y nieves, pan, pasteles, botanas, frituras, miel, conservas alimenticias y huevo."
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": ""
+ },
+ {
+   "A": "4612",
+   "B": "Comercio al por menor de bebidas, hielo y tabaco ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por menor especializado de bebidas envasadas alcohólicas y no alcohólicas, hielo, cigarros, puros y tabaco."
+ },
+ {
+   "A": "4621",
+   "B": "Comercio al por menor en tiendas de autoservicio ",
+   "C": "Véase la descripción de la categoría 46211."
+ },
+ {
+   "A": "4622",
+   "B": "Comercio al por menor en tiendas departamentales ",
+   "C": "Véase la descripción de la categoría 462210."
+ },
+ {
+   "A": "4631",
+   "B": "Comercio al por menor de productos textiles, excepto ropa ",
+   "C": "Véase la descripción de la categoría 46311."
+ },
+ {
+   "A": "4632",
+   "B": "Comercio al por menor de ropa, bisutería y accesorios de vestir ",
+   "C": "Véase la descripción de la categoría 46321."
+ },
+ {
+   "A": "4633",
+   "B": "Comercio al por menor de calzado ",
+   "C": "Véase la descripción de la categoría 463310."
+ },
+ {
+   "A": "4641",
+   "B": "Comercio al por menor de artículos para el cuidado de la salud ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por menor de medicamentos, productos naturistas y complementos alimenticios para consumo humano; al comercio al por menor especializado de anteojos, lentes de contacto y sus accesorios, y artículos ortopédicos."
+ },
+ {
+   "A": "4651",
+   "B": "Comercio al por menor de artículos de perfumería y joyería ",
+   "C": "Véase la descripción de la categoría 46511."
+ },
+ {
+   "A": "4652",
+   "B": "Comercio al por menor de artículos para el esparcimiento ",
+   "C": "Véase la descripción de la categoría 46521."
+ },
+ {
+   "A": "4653",
+   "B": "Comercio al por menor de artículos de papelería, libros, revistas y periódicos ",
+   "C": "Véase la descripción de la categoría 46531."
+ },
+ {
+   "A": "4659",
+   "B": "Comercio al por menor de mascotas, regalos, artículos religiosos, desechables, artesanías y otros artículos de uso personal ",
+   "C": "Véase la descripción de la categoría 46591."
+ },
+ {
+   "A": "4661",
+   "B": "Comercio al por menor de muebles para el hogar y otros enseres domésticos ",
+   "C": "Véase la descripción de la categoría 46611."
+ },
+ {
+   "A": "4662",
+   "B": "Comercio al por menor de mobiliario, equipo y accesorios de cómputo, teléfonos y otros aparatos de comunicación ",
+   "C": "Véase la descripción de la categoría 46621."
+ },
+ {
+   "A": "4663",
+   "B": "Comercio al por menor de artículos para la decoración de interiores ",
+   "C": "Véase la descripción de la categoría 46631."
+ },
+ {
+   "A": "4664",
+   "B": "Comercio al por menor de artículos usados ",
+   "C": "Véase la descripción de la categoría 466410."
+ },
+ {
+   "A": "4671",
+   "B": "Comercio al por menor de artículos de ferretería, tlapalería y vidrios ",
+   "C": "Véase la descripción de la categoría 46711."
+ },
+ {
+   "A": "4681",
+   "B": "Comercio al por menor de automóviles y camionetas ",
+   "C": "Véase la descripción de la categoría 46811."
+ },
+ {
+   "A": "4682",
+   "B": "Comercio al por menor de partes y refacciones para automóviles, camionetas y camiones ",
+   "C": "Véase la descripción de la categoría 46821."
+ },
+ {
+   "A": "4683",
+   "B": "Comercio al por menor de motocicletas y otros vehículos de motor ",
+   "C": "Véase la descripción de la categoría 46831."
+ },
+ {
+   "A": "4684",
+   "B": "Comercio al por menor de combustibles, aceites y grasas lubricantes ",
+   "C": "Unidades económicas dedicadas principalmente al comercio al por menor especializado de combustibles, como gasolina y diésel, petróleo diáfano, carbón vegetal y leña; gas L.P. en cilindros y para tanques estacionarios; al comercio de gas L.P. en estaciones de carburación; al comercio al por menor de gas natural vehicular en estaciones de gas natural vehicular, y al comercio al por menor especializado de aceites y grasas lubricantes, aditivos, anticongelantes y similares para vehículos de motor."
+ },
+ {
+   "A": "4691",
+   "B": "Comercio al por menor exclusivamente a través de internet, y catálogos impresos, televisión y similares ",
+   "C": "Véase la descripción de la categoría 469110."
+ },
+ {
+   "A": "4811",
+   "B": "Transporte aéreo regularT ",
+   "C": "Véase la descripción de la categoría 48111."
+ },
+ {
+   "A": "4812",
+   "B": "Transporte aéreo no regularT ",
+   "C": "Véase la descripción de la categoría 481210."
+ },
+ {
+   "A": "4821",
+   "B": "Transporte por ferrocarrilT ",
+   "C": "Véase la descripción de la categoría 482110."
+ },
+ {
+   "A": "4831",
+   "B": "Transporte marítimoT ",
+   "C": "Véase la descripción de la categoría 48311."
+ },
+ {
+   "A": "4832",
+   "B": "Transporte por aguas interioresT ",
+   "C": "Véase la descripción de la categoría 483210."
+ },
+ {
+   "A": "4841",
+   "B": "Autotransporte de carga generalT ",
+   "C": "Unidades económicas dedicadas principalmente al autotransporte local y foráneo, de productos empacados o sueltos, que no requieren de equipo especializado, se transportan en camiones de redilas, cajas secas cerradas, remolques, semirremolques, contenedores, plataformas y otros vehículos para carga general."
+ },
+ {
+   "A": "4842",
+   "B": "Autotransporte de carga especializadoT ",
+   "C": "Unidades económicas dedicadas principalmente al autotransporte local y foráneo de productos que por características como el tamaño, peso o peligrosidad requieren de equipo de autotransporte especializado para su transportación, como plataformas y otros equipos para transportar materiales para la construcción, materiales y residuos peligrosos, productos que requieren refrigeración o congelación, madera y sus derivados, maquinaria pesada o sobredimensionada y animales en pie, y a los servicios de mudanzas."
+ },
+ {
+   "A": "4851",
+   "B": "Transporte colectivo urbano y suburbano de pasajeros de ruta fijaT ",
+   "C": "Véase la descripción de la categoría 48511."
+ },
+ {
+   "A": "4852",
+   "B": "Transporte colectivo foráneo de pasajeros de ruta fijaT ",
+   "C": "Véase la descripción de la categoría 485210."
+ },
+ {
+   "A": "4853",
+   "B": "Servicio de taxis y limusinasT ",
+   "C": "Unidades económicas dedicadas principalmente al transporte de pasajeros en taxis y en automóviles alquilados con chofer, sin horario regular, con ruta definida por el cliente, y tarifa basada en la distancia recorrida, el tiempo empleado o el destino específico."
+ },
+ {
+   "A": "4854",
+   "B": "Transporte escolar y de personalT ",
+   "C": "Véase la descripción de la categoría 485410."
+ },
+ {
+   "A": "4855",
+   "B": "Alquiler de autobuses con choferT ",
+   "C": "Véase la descripción de la categoría 485510."
+ },
+ {
+   "A": "4859",
+   "B": "Otro transporte terrestre de pasajerosT ",
+   "C": "Véase la descripción de la categoría 485990."
+ },
+ {
+   "A": "4861",
+   "B": "Transporte de petróleo crudo por ductosT ",
+   "C": "Véase la descripción de la categoría 486110."
+ },
+ {
+   "A": "4862",
+   "B": "Transporte de gas natural por ductosT ",
+   "C": "Véase la descripción de la categoría 486210."
+ },
+ {
+   "A": "4869",
+   "B": "Transporte por ductos de otros productosT ",
+   "C": "Unidades económicas dedicadas principalmente al transporte por ductos de productos refinados del petróleo como petróleo refinado, condensados del gas natural, gasolina, y de carbón y otros productos diversos no clasificados en otra parte."
+ },
+ {
+   "A": "4871",
+   "B": "Transporte turístico por tierraT ",
+   "C": "Véase la descripción de la categoría 487110."
+ },
+ {
+   "A": "4872",
+   "B": "Transporte turístico por aguaT ",
+   "C": "Véase la descripción de la categoría 487210."
+ },
+ {
+   "A": "4879",
+   "B": "Otro transporte turísticoT ",
+   "C": "Véase la descripción de la categoría 487990."
+ },
+ {
+   "A": "4881",
+   "B": "Servicios relacionados con el transporte aéreoT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios relacionados con el transporte aéreo, como servicios a la navegación aérea, administración de aeropuertos y helipuertos, reparación y mantenimiento de aeronaves, y otros servicios relacionados con el transporte aéreo."
+ },
+ {
+   "A": "4882",
+   "B": "Servicios relacionados con el transporte por ferrocarrilT ",
+   "C": "Véase la descripción de la categoría 488210."
+ },
+ {
+   "A": "4883",
+   "B": "Servicios relacionados con el transporte por aguaT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios relacionados con el transporte por agua, como administración y operación de puertos y muelles; carga y descarga de mercancías y equipaje en las embarcaciones; ayuda para la navegación por agua; reparación, mantenimiento y conversión de barcos y yates que requieren tripulación, limpieza exterior de embarcaciones, inspección y pesaje de carga para el transporte por agua, y otros servicios relacionados con el transporte por agua no clasificados en otra parte."
+ },
+ {
+   "A": "4884",
+   "B": "Servicios relacionados con el transporte por carreteraT ",
+   "C": "Unidades económicas dedicadas principalmente al remolque de vehículos automotores; a la administración de centrales camioneras; a la administración de carreteras y puentes, y servicios auxiliares para los usuarios de las carreteras; a proporcionar servicios de pesaje de vehículos de autotransporte de carga, y otros servicios relacionados con el transporte por carretera."
+ },
+ {
+   "A": "4885",
+   "B": "Servicios de intermediación para el transporte de cargaT ",
+   "C": "Véase la descripción de la categoría 48851."
+ },
+ {
+   "A": "4889",
+   "B": "Otros servicios relacionados con el transporteT ",
+   "C": "Véase la descripción de la categoría 488990."
+ },
+ {
+   "A": "4911",
+   "B": "Servicios postalesT ",
+   "C": "Véase la descripción de la categoría 491110."
+ },
+ {
+   "A": "4921",
+   "B": "Servicios de mensajería y paquetería foráneaT ",
+   "C": "Véase la descripción de la categoría 492110."
+ },
+ {
+   "A": "4922",
+   "B": "Servicios de mensajería y paquetería localT ",
+   "C": "Véase la descripción de la categoría 492210."
+ },
+ {
+   "A": "4931",
+   "B": "Servicios de almacenamientoT ",
+   "C": "Unidades económicas dedicadas principalmente al almacenamiento de productos, tanto en instalaciones especializadas como no especializadas. Estas unidades económicas pueden realizar actividades de control y manejo de inventarios, ensamblado, empacado, marcado de precios, etiquetado de mercancías y arreglos para distribución o recolección de las mercancías."
+ },
+ {
+   "A": "5111",
+   "B": "Edición de periódicos, revistas, libros y similares, y edición de estas publicaciones integrada con la impresiónT ",
+   "C": "Unidades económicas dedicadas principalmente a la edición de periódicos, revistas, boletines y otras publicaciones periódicas, libros, enciclopedias y atlas, directorios, listas de correo, catálogos, folletos y otros materiales, y a la edición de estas publicaciones integrada con la impresión en papel o con la grabación en formato electrónico, por ejemplo en discos compactos (CD). Las unidades económicas dedicadas a la edición se caracterizan por la creatividad intelectual que se requiere para el desarrollo de sus actividades, publican copias de trabajos de los cuales poseen los derechos de autor, ya sea porque realizaron una creación propia, o bien, porque adquirieron los derechos de reproducción a través de licenciamientos; pueden contar con la infraestructura necesaria para realizar las actividades de distribución de sus productos o realizan acuerdos para la distribución de los mismos; asimismo, pueden contratar los servicios de impresión. Los ingresos que obtienen son por venta y licenciamiento de las publicaciones."
+ },
+ {
+   "A": "5112",
+   "B": "Edición de software y edición de software integrada con la reproducciónT ",
+   "C": "Véase la descripción de la categoría 511210."
+ },
+ {
+   "A": "5121",
+   "B": "Industria fílmica y del videoT ",
+   "C": "Unidades económicas dedicadas principalmente a la prestación de servicios fílmicos y del video, como la producción, distribución y exhibición de películas en formato de cine y de video; la producción de programas para la televisión y otros materiales audiovisuales, y a los servicios de postproducción."
+ },
+ {
+   "A": "5122",
+   "B": "Industria del sonidoT ",
+   "C": "Unidades económicas dedicadas principalmente a la producción de material discográfico, como discos compactos (CD) y de video digital (DVD) o casetes musicales; a la producción de este material integrada con su reproducción o con su distribución; a administrar los derechos de autor de obras musicales en beneficio de sus poseedores; a proporcionar las instalaciones y la experiencia técnica para la grabación de discos compactos (CD) y de video digital (DVD) o casetes musicales, y a proporcionar otros servicios de grabación del sonido."
+ },
+ {
+   "A": "5151",
+   "B": "Transmisión de programas de radio y televisiónT ",
+   "C": "Unidades económicas dedicadas principalmente a la transmisión de programas de radio y televisión mediante señal abierta."
+ },
+ {
+   "A": "5152",
+   "B": "Producción de programación de canales para sistemas de televisión por cable o satelitalesT ",
+   "C": "Véase la descripción de la categoría 515210."
+ },
+ {
+   "A": "5173",
+   "B": "Operadores de servicios de telecomunicaciones alámbricas e inalámbricasT ",
+   "C": "Véase la descripción de la categoría 51731."
+ },
+ {
+   "A": "5174",
+   "B": "Operadores de servicios de telecomunicaciones vía satéliteT ",
+   "C": "Véase la descripción de la categoría 517410."
+ },
+ {
+   "A": "5179",
+   "B": "Otros servicios de telecomunicacionesT ",
+   "C": "Véase la descripción de la categoría 517910."
+ },
+ {
+   "A": "5182",
+   "B": "Procesamiento electrónico de información, hospedaje y otros servicios relacionadosT ",
+   "C": "Véase la descripción de la categoría 518210."
+ },
+ {
+   "A": "5191",
+   "B": "Otros servicios de informaciónT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar otros servicios de información, como recopilación y suministro de material informativo de actualidad para estaciones de radio y televisión, periódicos y revistas; a coleccionar, clasificar, almacenar y preservar documentos para la lectura y la consulta; a editar y difundir contenido exclusivamente a través de internet, así como a difundir programas de radio y de televisión exclusivamente a través de internet; a operar sitios web que usan un motor de búsqueda para generar y mantener extensas bases de datos para internet en un formato de búsqueda fácil y se conocen como portales de búsqueda en la web; a los servicios de información por teléfono mediante mensajes pregrabados, y a los servicios de búsqueda de información."
+ },
+ {
+   "A": "5211",
+   "B": "Banca centralT ",
+   "C": "Véase la descripción de la categoría 521110."
+ },
+ {
+   "A": "5221",
+   "B": "Banca múltiple ",
+   "C": "Véase la descripción de la categoría 522110."
+ },
+ {
+   "A": "5222",
+   "B": "Instituciones financieras de fomento económico ",
+   "C": "Unidades económicas sin fines de lucro dedicadas principalmente a la captación y colocación de recursos del público para apoyar el desarrollo de proyectos económicos, y a la administración de fondos y fideicomisos financieros para estimular las actividades sociales y de producción."
+ },
+ {
+   "A": "5223",
+   "B": "Uniones de crédito e instituciones de ahorro ",
+   "C": "Unidades económicas dedicadas principalmente a facilitar el uso de crédito a sus socios y a fomentar el ahorro nacional mediante mecanismos alternativos a los tradicionales, consistentes en captar las aportaciones de sus socios para otorgar préstamos a estos mismos, y a la captación de depósitos del público ahorrador para el otorgamiento de créditos y préstamos."
+ },
+ {
+   "A": "5224",
+   "B": "Otras instituciones de intermediación crediticia y financiera no bursátil ",
+   "C": "Unidades económicas dedicadas principalmente al autofinanciamiento, otorgamiento de préstamos prendarios, a la operación y promoción de tarjetas de crédito no bancarias, al financiamiento de bienes duraderos (financiadoras), y sociedades financieras de objeto múltiple."
+ },
+ {
+   "A": "5225",
+   "B": "Servicios relacionados con la intermediación crediticia no bursátil ",
+   "C": "Véase la descripción de la categoría 522510."
+ },
+ {
+   "A": "5231",
+   "B": "Casas de bolsa, casas de cambio y centros cambiariosT ",
+   "C": "Unidades económicas dedicadas principalmente a la intermediación financiera entre el público inversionista y las unidades económicas suscritas en el mercado de valores y el gobierno, mediante la colocación, compra y venta de acciones, instrumentos de deuda y valores, y a las operaciones de compra-venta de divisas."
+ },
+ {
+   "A": "5232",
+   "B": "Bolsa de valoresT ",
+   "C": "Véase la descripción de la categoría 523210."
+ },
+ {
+   "A": "5239",
+   "B": "Asesoría en inversiones y otros servicios relacionados con la intermediación bursátilT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de asesoría en inversiones en el mercado de valores, sin efectuar alguna transacción en el mercado accionario, y otros servicios relacionados con la intermediación bursátil."
+ },
+ {
+   "A": "5241",
+   "B": "Compañías de seguros y fianzasT ",
+   "C": "Unidades económicas dedicadas principalmente a la emisión de pólizas de seguros, como los seguros de vida, contra accidentes, robo o daños, y a la suscripción de pólizas de fianzas."
+ },
+ {
+   "A": "5242",
+   "B": "Servicios relacionados con los seguros y las fianzas, y administración de fondos para el retiroT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios relacionados con los seguros y fianzas, como la colocación o venta directa al público de contratos o pólizas de seguros o fianzas; a la realización de ajustes y gestiones del seguro en caso de siniestro, y a la administración de fondos para el retiro."
+ },
+ {
+   "A": "5251",
+   "B": "Sociedades de inversión especializadas en fondos para el retiro ",
+   "C": "Véase la descripción de la categoría 525110."
+ },
+ {
+   "A": "5252",
+   "B": "Fondos de inversión ",
+   "C": "Véase la descripción de la categoría 525210."
+ },
+ {
+   "A": "5311",
+   "B": "Alquiler sin intermediación de bienes raícesT ",
+   "C": "Véase la descripción de la categoría 53111."
+ },
+ {
+   "A": "5312",
+   "B": "Inmobiliarias y corredores de bienes raícesT ",
+   "C": "Véase la descripción de la categoría 531210."
+ },
+ {
+   "A": "5313",
+   "B": "Servicios relacionados con los servicios inmobiliariosT ",
+   "C": "Véase la descripción de la categoría 53131."
+ },
+ {
+   "A": "5321",
+   "B": "Alquiler de automóviles, camiones y otros transportes terrestresT ",
+   "C": "Unidades económicas dedicadas principalmente al alquiler de automóviles, camiones de carga, autobuses, minibuses y remolques sin chofer."
+ },
+ {
+   "A": "5322",
+   "B": "Alquiler de artículos para el hogar y personalesT ",
+   "C": "Unidades económicas dedicadas principalmente al alquiler de artículos para el hogar y personales, como aparatos eléctricos y electrónicos; prendas de vestir; mesas, sillas, vajillas y similares, y otros artículos para el hogar y personales no clasificados en otra parte."
+ },
+ {
+   "A": "5323",
+   "B": "Centros generales de alquilerT ",
+   "C": "Véase la descripción de la categoría 532310."
+ },
+ {
+   "A": "5324",
+   "B": "Alquiler de maquinaria y equipo agropecuario, pesquero, industrial, comercial y de serviciosT ",
+   "C": "Unidades económicas dedicadas principalmente al alquiler de maquinaria y equipo agropecuario, pesquero e industrial sin operador, y maquinaria y equipo comercial y de servicios."
+ },
+ {
+   "A": "5331",
+   "B": "Servicios de alquiler de marcas registradas, patentes y franquiciasT ",
+   "C": "Véase la descripción de la categoría 533110."
+ },
+ {
+   "A": "5411",
+   "B": "Servicios legalesT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de asesoría y representación jurídica, para la defensa legal ante un tribunal o agencia administrativa; servicios notariales y de certificación con la finalidad de dar fe y legalidad a actos y hechos jurídicos, y servicios de asesoría y apoyo para efectuar trámites legales."
+ },
+ {
+   "A": "5412",
+   "B": "Servicios de contabilidad, auditoría y servicios relacionadosT ",
+   "C": "Véase la descripción de la categoría 54121."
+ },
+ {
+   "A": "5413",
+   "B": "Servicios de arquitectura, ingeniería y actividades relacionadasT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de arquitectura, arquitectura de paisaje y urbanismo, ingeniería, y actividades relacionadas, como servicios de dibujo, inspección de edificios, levantamiento geofísico, elaboración de mapas y laboratorios de pruebas."
+ },
+ {
+   "A": "5414",
+   "B": "Diseño especializadoT ",
+   "C": "Unidades económicas dedicadas principalmente al diseño especializado, como diseño y decoración de interiores, diseño industrial, gráfico, de modas y otros diseños especializados."
+ },
+ {
+   "A": "5415",
+   "B": "Servicios de diseño de sistemas de cómputo y servicios relacionadosT ",
+   "C": "Véase la descripción de la categoría 541510."
+ },
+ {
+   "A": "5416",
+   "B": "Servicios de consultoría administrativa, científica y técnicaT ",
+   "C": "Unidades económicas dedicadas principalmente a la consultoría en administración, medio ambiente, y otros servicios de consultoría científica y técnica."
+ },
+ {
+   "A": "5417",
+   "B": "Servicios de investigación científica y desarrolloT ",
+   "C": "Unidades económicas dedicadas principalmente a la investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, arquitectura, ciencias biológicas, ciencias médicas y de la salud, ciencias agrícolas, veterinarias y ambientales, y en ciencias sociales y humanidades."
+ },
+ {
+   "A": "5418",
+   "B": "Servicios de publicidad y actividades relacionadasT ",
+   "C": "Unidades económicas dedicadas principalmente a la publicidad y actividades relacionadas con ésta, como creación de campañas publicitarias y su difusión en medios masivos de comunicación; diseño e implementación de campañas de relaciones públicas; compra de tiempo o espacio publicitario en los medios en nombre del publicista o agencia de publicidad; representación de medios; renta de espacios publicitarios para colocar anuncios publicitarios; servicios de campañas de publicidad por correo directo; distribución de material publicitario, y otros servicios de publicidad."
+ },
+ {
+   "A": "5419",
+   "B": "Otros servicios profesionales, científicos y técnicosT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de investigación de mercados y encuestas de opinión pública, fotografía y videograbación, traducción e interpretación, servicios veterinarios, y otros servicios profesionales, científicos y técnicos no clasificados en otra parte."
+ },
+ {
+   "A": "5511",
+   "B": "CorporativosT ",
+   "C": "Véase la descripción de la categoría 55111."
+ },
+ {
+   "A": "5611",
+   "B": "Servicios de administración de negociosT ",
+   "C": "Véase la descripción de la categoría 561110."
+ },
+ {
+   "A": "5612",
+   "B": "Servicios combinados de apoyo en instalacionesT ",
+   "C": "Véase la descripción de la categoría 561210."
+ },
+ {
+   "A": "5613",
+   "B": "Servicios de empleoT ",
+   "C": "Unidades económicas dedicadas principalmente a proveer personal laboral a otras unidades económicas."
+ },
+ {
+   "A": "5614",
+   "B": "Servicios de apoyo secretarial, fotocopiado, cobranza, investigación crediticia y similaresT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de preparación de documentos; de casetas telefónicas sin operar las redes telefónicas alámbricas; recepción de llamadas telefónicas y promoción por teléfono de bienes o servicios; servicios de fotocopiado, fax, acceso a computadoras y afines; servicios de cobro de deudas en nombre del cliente; investigación de solvencia financiera, y otros servicios de apoyo secretarial."
+ },
+ {
+   "A": "5615",
+   "B": "Agencias de viajes y servicios de reservacionesT ",
+   "C": "Unidades económicas dedicadas principalmente a los servicios de asesoría, planeación y organización de itinerarios de viajes; a la organización de excursiones y paquetes turísticos para ser vendidos por agencias de viajes, y a hacer reservaciones en hoteles, restaurantes, líneas de transporte y espectáculos."
+ },
+ {
+   "A": "5616",
+   "B": "Servicios de investigación, protección y seguridadT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de investigación, protección y custodia de personas y bienes, excepto mediante monitoreo, y servicios de protección y custodia mediante el monitoreo de sistemas de seguridad."
+ },
+ {
+   "A": "5617",
+   "B": "Servicios de limpiezaT ",
+   "C": "Unidades económicas dedicadas principalmente al control y exterminación de plagas; a la limpieza de inmuebles; a la instalación y mantenimiento de áreas verdes; a la limpieza de tapicería, alfombras y muebles, y a otros servicios especializados de limpieza."
+ },
+ {
+   "A": "5619",
+   "B": "Otros servicios de apoyo a los negociosT ",
+   "C": "Unidades económicas dedicadas principalmente al empacado y etiquetado de bienes propiedad de terceros; a la organización y promoción de congresos, convenciones y ferias comerciales e industriales, y a otros servicios de apoyo a los negocios no clasificados en otra parte."
+ },
+ {
+   "A": "5621",
+   "B": "Recolección de residuos ",
+   "C": "Unidades económicas dedicadas principalmente a la recolección de residuos, como aceites, lodos, soluciones, residuos biológico-infecciosos, basura y materiales reciclables (botellas de PET usadas, latas de aluminio usadas, cartón usado, etc.), provenientes de fuentes residenciales y no residenciales."
+ },
+ {
+   "A": "5622",
+   "B": "Tratamiento y disposición final de residuos ",
+   "C": "Unidades económicas dedicadas principalmente al tratamiento de residuos mediante procedimientos biológicos, químicos o físicos para reducir, eliminar o transformar los residuos, y disposición final de residuos por medio de confinamientos controlados, confinamientos en formaciones geológicas estables, contenedores sobre tierra, rellenos sanitarios, incineración y otros métodos."
+ },
+ {
+   "A": "5629",
+   "B": "Servicios de remediación, recuperación, y otros servicios de manejo de residuos ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de remediación, recuperación de materiales aprovechables de los residuos, y otros servicios de manejo de residuos, como limpieza de fosas sépticas, limpieza y desazolve de cárcamos, redes de drenajes y cañerías de alcantarillado, y alquiler de sanitarios portátiles."
+ },
+ {
+   "A": "6111",
+   "B": "Escuelas de educación básica, media y para necesidades especialesT ",
+   "C": "Unidades económicas dedicadas principalmente a impartir educación básica (preescolar, primaria y secundaria), media (propedéutica y terminal) y para necesidades especiales (personas con discapacidad, aptitudes sobresalientes, problemas de aprendizaje, lenguaje o conducta)."
+ },
+ {
+   "A": "6112",
+   "B": "Escuelas de educación técnica superiorT ",
+   "C": "Véase la descripción de la categoría 61121."
+ },
+ {
+   "A": "6113",
+   "B": "Escuelas de educación superiorT ",
+   "C": "Véase la descripción de la categoría 61131."
+ },
+ {
+   "A": "6114",
+   "B": "Escuelas comerciales, de computación y de capacitación para ejecutivosT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar capacitación técnica comercial, secretarial, para el desarrollo de habilidades computacionales y para ejecutivos."
+ },
+ {
+   "A": "6115",
+   "B": "Escuelas de oficiosT ",
+   "C": "Véase la descripción de la categoría 61151."
+ },
+ {
+   "A": "6116",
+   "B": "Otros servicios educativosT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios educativos no formales, como enseñanza de idiomas, educación artística e instrucción deportiva, y otros servicios educativos no formales no clasificados en otra parte."
+ },
+ {
+   "A": "6117",
+   "B": "Servicios de apoyo a la educaciónT ",
+   "C": "Véase la descripción de la categoría 611710."
+ },
+ {
+   "A": "6211",
+   "B": "Consultorios médicosT ",
+   "C": "Véase la descripción de la categoría 62111."
+ },
+ {
+   "A": "6212",
+   "B": "Consultorios dentalesT ",
+   "C": "Véase la descripción de la categoría 62121."
+ },
+ {
+   "A": "6213",
+   "B": "Otros consultorios para el cuidado de la saludT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios para el cuidado de la salud prestados por técnicos, personal paramédico y profesionistas que no cuentan con la licenciatura en medicina, como quiroprácticos, optometristas, psicólogos, terapeutas, nutriólogos, dietistas, naturistas, acupunturistas, podiatras, hipnoterapistas y parteras."
+ },
+ {
+   "A": "6214",
+   "B": "Centros para la atención de pacientes que no requieren hospitalizaciónT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios médicos a pacientes que no requieren hospitalización, como servicios de planificación familiar, atención médica externa para la rehabilitación de enfermos mentales y adictos, cirugía ambulatoria, diálisis renal y otros servicios médicos que no requieren hospitalización, no clasificados en otra parte."
+ },
+ {
+   "A": "6215",
+   "B": "Laboratorios médicos y de diagnósticoT ",
+   "C": "Véase la descripción de la categoría 62151."
+ },
+ {
+   "A": "6216",
+   "B": "Servicios de enfermería a domicilioT ",
+   "C": "Véase la descripción de la categoría 621610."
+ },
+ {
+   "A": "6219",
+   "B": "Servicios de ambulancias, de bancos de órganos y otros servicios auxiliares al tratamiento médicoT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios auxiliares al tratamiento médico, como traslado de enfermos en todo tipo de ambulancias (terrestres, aéreas); a la recepción, conservación y manejo de órganos, tejidos, células y sangre donados para trasplantes y transfusiones, y a proporcionar otros servicios auxiliares al tratamiento médico no clasificados en otra parte, como aplicación de vacunas; a la medición de la presión sanguínea y de la capacidad auditiva."
+ },
+ {
+   "A": "6221",
+   "B": "Hospitales generalesT ",
+   "C": "Véase la descripción de la categoría 62211."
+ },
+ {
+   "A": "6222",
+   "B": "Hospitales psiquiátricos y para el tratamiento por adicciónT ",
+   "C": "Véase la descripción de la categoría 62221."
+ },
+ {
+   "A": "6223",
+   "B": "Hospitales de otras especialidades médicasT ",
+   "C": "Véase la descripción de la categoría 62231."
+ },
+ {
+   "A": "6231",
+   "B": "Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminalesT ",
+   "C": "Véase la descripción de la categoría 62311."
+ },
+ {
+   "A": "6232",
+   "B": "Residencias para el cuidado de personas con problemas de retardo mental, trastorno mental y adiccionesT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar cuidados a personas con retardo mental, trastorno mental (neurosis, esquizofrenia, paranoia, hipocondría), o adicción al tabaco, alcohol o sustancias químicas."
+ },
+ {
+   "A": "6233",
+   "B": "Asilos y otras residencias para el cuidado de ancianosT ",
+   "C": "Véase la descripción de la categoría 62331."
+ },
+ {
+   "A": "6239",
+   "B": "Orfanatos y otras residencias de asistencia socialT ",
+   "C": "Véase la descripción de la categoría 62399."
+ },
+ {
+   "A": "6241",
+   "B": "Servicios de orientación y trabajo socialT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de orientación y trabajo social para la niñez y la juventud; cuidados durante el día a ancianos y personas con discapacidad, y otros servicios de orientación y trabajo social no clasificados en otra parte."
+ },
+ {
+   "A": "6242",
+   "B": "Servicios comunitarios de alimentación, refugio y emergenciaT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de alimentación y refugio temporal comunitario a personas afectadas por catástrofes o siniestros, indigentes, víctimas de violencia doméstica, etcétera."
+ },
+ {
+   "A": "6243",
+   "B": "Servicios de capacitación para el trabajo para personas desempleadas, subempleadas o con discapacidadT ",
+   "C": "Véase la descripción de la categoría 62431."
+ },
+ {
+   "A": "6244",
+   "B": "GuarderíasT ",
+   "C": "Véase la descripción de la categoría 62441."
+ },
+ {
+   "A": "7111",
+   "B": "Compañías y grupos de espectáculos artísticos y culturalesT ",
+   "C": "Unidades económicas dedicadas principalmente a la producción y presentación de espectáculos artísticos y culturales, como espectáculos de teatro, danza, música, y otros espectáculos artísticos."
+ },
+ {
+   "A": "7112",
+   "B": "Deportistas y equipos deportivos profesionalesT ",
+   "C": "Véase la descripción de la categoría 71121."
+ },
+ {
+   "A": "7113",
+   "B": "Promotores de espectáculos artísticos, culturales, deportivos y similaresT ",
+   "C": "Unidades económicas dedicadas principalmente a la promoción de diversos espectáculos artísticos, culturales, deportivos y similares, por medio de actividades como la producción y organización de eventos; contratación o representación de artistas, deportistas y similares; comercialización de los eventos, y obtención de patrocinios."
+ },
+ {
+   "A": "7114",
+   "B": "Agentes y representantes de artistas, deportistas y similaresT ",
+   "C": "Véase la descripción de la categoría 711410."
+ },
+ {
+   "A": "7115",
+   "B": "Artistas, escritores y técnicos independientesT ",
+   "C": "Véase la descripción de la categoría 711510."
+ },
+ {
+   "A": "7121",
+   "B": "Museos, sitios históricos, zoológicos y similaresT ",
+   "C": "Unidades económicas dedicadas principalmente a exhibir colecciones de carácter artístico, científico, histórico y, en general, de valor cultural; a hacer posible el acceso del público a edificios históricos, zonas arqueológicas y otros lugares de interés histórico; a exhibir plantas y animales salvajes vivos, y a hacer posible el acceso del público a zonas naturales y otros sitios del patrimonio cultural de la nación."
+ },
+ {
+   "A": "7131",
+   "B": "Parques con instalaciones recreativas y casas de juegos electrónicosT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de entretenimiento en instalaciones con fines recreativos, como parques de diversiones y temáticos, parques acuáticos, balnearios, y en máquinas de juegos electrónicos que funcionan con monedas o fichas, o que se cobran de acuerdo con el tiempo de uso."
+ },
+ {
+   "A": "7132",
+   "B": "Casinos, loterías y otros juegos de azarT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de entretenimiento en casinos; a la venta de billetes de lotería, pronósticos deportivos y otros boletos de sorteo propiedad de terceros a cambio de una comisión, y a proporcionar otros juegos de azar."
+ },
+ {
+   "A": "7139",
+   "B": "Otros servicios recreativosT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de instalaciones equipadas para que los clientes puedan participar activamente en actividades deportivas o recreativas, como campos de golf, pistas para esquiar, marinas turísticas, clubes deportivos, centros de acondicionamiento físico, boliches, billares, clubes o ligas de aficionados y otros servicios recreativos."
+ },
+ {
+   "A": "7211",
+   "B": "Hoteles, moteles y similaresT ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de alojamiento temporal en hoteles, moteles, hoteles con casino, cabañas, villas y similares."
+ },
+ {
+   "A": "7212",
+   "B": "Campamentos y albergues recreativosT ",
+   "C": "Véase la descripción de la categoría 721210."
+ },
+ {
+   "A": "7213",
+   "B": "Pensiones y casas de huéspedes, y departamentos y casas amueblados con servicios de hoteleríaT ",
+   "C": "Véase la descripción de la categoría 72131."
+ },
+ {
+   "A": "7223",
+   "B": "Servicios de preparación de alimentos por encargoT ",
+   "C": "Unidades económicas dedicadas principalmente a la preparación y entrega de alimentos para consumo inmediato por contrato para empresas e instituciones, y para ocasiones especiales, y a controlar a las unidades móviles que se dedican a la preparación de alimentos y bebidas para consumo inmediato en unidades móviles, como carros motorizados o no motorizados."
+ },
+ {
+   "A": "7224",
+   "B": "Centros nocturnos, bares, cantinas y similaresT ",
+   "C": "Véase la descripción de la categoría 72241."
+ },
+ {
+   "A": "7225",
+   "B": "Servicios de preparación de alimentos y bebidas alcohólicas y no alcohólicasT ",
+   "C": "Véase la descripción de la categoría 72251."
+ },
+ {
+   "A": "8111",
+   "B": "Reparación y mantenimiento de automóviles y camionesT ",
+   "C": "Unidades económicas dedicadas principalmente a la reparación y mantenimiento de automóviles y camiones, como reparación mecánica y eléctrica de automóviles y camiones; a la hojalatería, tapicería, instalación de cristales y otras reparaciones a la carrocería; a la reparación menor de llantas y cámaras de automóviles y camiones; al lavado y lubricado de automóviles y camiones, y a proporcionar otros servicios de reparación y mantenimiento de automóviles y camiones no clasificados en otra parte."
+ },
+ {
+   "A": "8112",
+   "B": "Reparación y mantenimiento de equipo electrónico y de equipo de precisiónT ",
+   "C": "Véase la descripción de la categoría 81121."
+ },
+ {
+   "A": "8113",
+   "B": "Reparación y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de serviciosT ",
+   "C": "Véase la descripción de la categoría 81131."
+ },
+ {
+   "A": "8114",
+   "B": "Reparación y mantenimiento de artículos para el hogar y personalesT ",
+   "C": "Unidades económicas dedicadas principalmente a la reparación y mantenimiento de artículos para el hogar y personales, como aparatos eléctricos, calzado y otros artículos de piel y cuero, motocicletas, bicicletas, tapicería de muebles y cerrajerías."
+ },
+ {
+   "A": "",
+   "B": "",
+   "C": ""
+ },
+ {
+   "A": "8121",
+   "B": "Salones y clínicas de belleza, baños públicos y bolerías ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de cuidado y arreglo personal; de regaderas, vapor, sauna y baño turco; servicios de sanitarios públicos y limpieza de calzado."
+ },
+ {
+   "A": "8122",
+   "B": "Lavanderías y tintorerías ",
+   "C": "Véase la descripción de la categoría 812210."
+ },
+ {
+   "A": "8123",
+   "B": "Servicios funerarios y administración de cementerios ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios funerarios y a la administración de cementerios."
+ },
+ {
+   "A": "8124",
+   "B": "Estacionamientos y pensiones para vehículos automotores ",
+   "C": "Véase la descripción de la categoría 812410."
+ },
+ {
+   "A": "8129",
+   "B": "Servicios de revelado e impresión de fotografías y otros servicios personales ",
+   "C": "Unidades económicas dedicadas principalmente a proporcionar servicios de revelado e impresión de fotografías y otros servicios personales no clasificados en otra parte, como servicios de máquinas fotográficas que funcionan con monedas, casilleros que funcionan con monedas y guardapaquetes."
+ },
+ {
+   "A": "8131",
+   "B": "Asociaciones y organizaciones comerciales, laborales, profesionales y recreativas ",
+   "C": "Unidades económicas dedicadas principalmente a la promoción, representación y defensa de los intereses de sus afiliados, como productores, comerciantes, prestadores de servicios, trabajadores y profesionistas."
+ },
+ {
+   "A": "8132",
+   "B": "Asociaciones y organizaciones religiosas, políticas y civiles ",
+   "C": "Unidades económicas dedicadas principalmente a prestar servicios religiosos y a la promoción, representación y defensa de causas políticas y de interés civil."
+ },
+ {
+   "A": "8141",
+   "B": "Hogares con empleados domésticosT ",
+   "C": "Véase la descripción de la categoría 814110."
+ },
+ {
+   "A": "9311",
+   "B": "Órganos legislativos ",
+   "C": "Véase la descripción de la categoría 931110."
+ },
+ {
+   "A": "9312",
+   "B": "Administración pública en general ",
+   "C": "Véase la descripción de la categoría 931210."
+ },
+ {
+   "A": "9313",
+   "B": "Regulación y fomento del desarrollo económico ",
+   "C": "Véase la descripción de la categoría 931310."
+ },
+ {
+   "A": "9314",
+   "B": "Impartición de justicia y mantenimiento de la seguridad y el orden público ",
+   "C": "Véase la descripción de la categoría 931410."
+ },
+ {
+   "A": "9315",
+   "B": "Regulación y fomento de actividades para mejorar y preservar el medio ambiente ",
+   "C": "Véase la descripción de la categoría 931510."
+ },
+ {
+   "A": "9316",
+   "B": "Actividades administrativas de instituciones de bienestar social ",
+   "C": "Véase la descripción de la categoría 931610."
+ },
+ {
+   "A": "9317",
+   "B": "Relaciones exteriores ",
+   "C": "Véase la descripción de la categoría 931710."
+ },
+ {
+   "A": "9318",
+   "B": "Actividades de seguridad nacional ",
+   "C": "Véase la descripción de la categoría 931810."
+ },
+ {
+   "A": "9321",
+   "B": "Organismos internacionales y extraterritoriales ",
+   "C": "Unidades económicas internacionales y extraterritoriales con ubicación física en nuestro país, dedicadas principalmente a brindar cooperación y apoyo económico, comercial y tecnológico; a representar a sus respectivos países en los aspectos políticos, comerciales y diplomáticos, y a proporcionar apoyo militar."
+ }
+]
